@@ -1,0 +1,10 @@
+El objetivo del encuentro de hoy fue el de familiarizarse con los distintos tipos de gráficos que se pueden realizar mediante ggplot2, haciendo hincapié en:
+- ¿En qué situaciones se utilizan?
+- ¿Cómo se construyen?
+- ¿Qué ventajas y desventajas presentan?
+
+Para ello se partió del scatterplot, y se discutió la problemática de la superposición de puntos, brindándose como solución los argumentos alpha y jitter.
+Se utilizaron figuras del libro "Statistical Inferencia via Data Science" (https://moderndive.com/2-viz.html#scatterplots).
+Luego, se continuó la discusión a partir de los gráficos que se encuentran en "R Graph Gallety" (https://www.r-graph-gallery.com/index.html).
+Se discutió sobre la diferencia entre barplots y boxplots, histograms y density plots, y finalmente, ridgeplots y violin plots.
+Se discutió la posibilidad de combinar distintos tipos de gráficos, por ejemplo superponiéndolos, y qué ventajas y desventajas tiene esta alternativa.
