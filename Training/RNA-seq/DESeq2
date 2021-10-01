@@ -1,2 +1,3 @@
 Negative Binomial Distribution (http://bridgeslab.sph.umich.edu/posts/why-do-we-use-the-negative-binomial-distribution-for-rnaseq)
 DESeq2 paper (https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8)
+Vignettes (https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html#theory) (http://master.bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html)
